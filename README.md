@@ -11,7 +11,7 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
 
 
-## Sneak Peek of  Kanban-Board 🙈 :
+## Sneak Peek of  Kanban-Board:
 
 <table>
   <tr>
@@ -24,7 +24,5 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
   </tr>
 </table>
 
-© 2023 Vishal Patidar
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+2024 Rajesh Challa
 
