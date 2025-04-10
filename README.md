@@ -15,12 +15,12 @@ Develop a React-based Kanban-board app that interfaces with the provided API by 
 
 <table>
   <tr>
-    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/6119f174-c748-40c7-98a9-0b80c5573151" alt="" /></td>
-    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/870bb1a3-33b7-443b-add5-dcc1fc81a4c6" alt="" /></td>
+    <td><img src="https://github.com/Challa-Rajesh/Interactive-Kanban-Board/blob/main/preview/Desktop-1.png" alt="" /></td>
+    <td><img src="https://github.com/Challa-Rajesh/Interactive-Kanban-Board/blob/main/preview/Desktop-2.png" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/ae532c31-ceb8-4414-aae2-735c2b4c40d1" alt="" /></td>
-    <td><img src="https://github.com/vishal1patidar/Quicksell-Frontend-assignment/assets/79128256/bf8202a8-6633-49b2-8e26-19f0db1e17ce" alt="" /></td>
+    <td><img src="https://github.com/Challa-Rajesh/Interactive-Kanban-Board/blob/main/preview/Mobile-1.png" alt="" /></td>
+
   </tr>
 </table>
 
